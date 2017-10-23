@@ -1,6 +1,15 @@
-module.exports = {
-    iso8583: require('./iso8583'),
-    ndc: require('./ndc'),
-    payshield: require('./payshield'),
-    smpp: require('./smpp')
+function Plain(config, validator, logger) {
+    this.val = validator;
+    this.log = logger;
+}
+
+Plain.prototype.decode = function(buffer) {
+    var bufferString = buffer.toString();
+    return bufferString;
 };
+
+Plain.prototype.encode = function(message, context) {
+    return new Buffer(message.payload);
+};
+
+module.exports = Plain;
