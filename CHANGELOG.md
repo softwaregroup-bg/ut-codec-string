@@ -1,3 +1,13 @@
+<a name="6.1.1"></a>
+## [6.1.1](https://github.com/softwaregroup-bg/ut-codec-string/compare/v6.1.0...v6.1.1) (2018-10-25)
+
+
+### Bug Fixes
+
+* ignore package-lock ([c26a241](https://github.com/softwaregroup-bg/ut-codec-string/commit/c26a241))
+
+
+
 <a name="6.1.0"></a>
 # 6.1.0 (2017-10-26)
 
