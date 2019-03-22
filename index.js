@@ -9,7 +9,7 @@ Plain.prototype.decode = function(buffer) {
 };
 
 Plain.prototype.encode = function(message, context) {
-    return new Buffer(message.payload);
+    return Buffer.from(message.payload);
 };
 
 module.exports = Plain;
