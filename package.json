@@ -3,8 +3,9 @@
   "version": "6.1.1",
   "main": "./index.js",
   "dependencies": {},
-  "devDependencies": {
-    "ut-tools": "^5.23.2"
+    "devDependencies": {
+    "tap": "^12.6.0",
+    "ut-tools": "^6.8.10"
   },
   "scripts": {
     "lint": "ut-lint .",
