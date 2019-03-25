@@ -1,3 +1,12 @@
+## [6.1.3](https://github.com/softwaregroup-bg/ut-codec-string/compare/v6.1.2...v6.1.3) (2019-03-25)
+
+
+### Bug Fixes
+
+* lint ([d250537](https://github.com/softwaregroup-bg/ut-codec-string/commit/d250537))
+
+
+
 <a name="6.1.2"></a>
 ## [6.1.2](https://github.com/softwaregroup-bg/ut-codec-string/compare/v6.1.1...v6.1.2) (2019-03-22)
 
