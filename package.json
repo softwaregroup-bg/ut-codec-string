@@ -4,8 +4,8 @@
   "main": "./index.js",
   "dependencies": {},
   "devDependencies": {
-    "tap": "^12.6.0",
-    "ut-tools": "^6.8.10"
+    "tap": "^12.6.1",
+    "ut-tools": "^6.14.2"
   },
   "scripts": {
     "lint": "ut-lint .",
