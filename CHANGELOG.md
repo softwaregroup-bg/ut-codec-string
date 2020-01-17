@@ -1,3 +1,7 @@
+## [6.1.4](https://github.com/softwaregroup-bg/ut-codec-string/compare/v6.1.3...v6.1.4) (2020-01-17)
+
+
+
 ## [6.1.3](https://github.com/softwaregroup-bg/ut-codec-string/compare/v6.1.2...v6.1.3) (2019-03-25)
 
 
